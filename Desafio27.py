@@ -1,0 +1,6 @@
+frase = str(input('Digite uma frase. '))
+low = frase.lower()
+q = low.count('a')
+ult = low.rindex('a')
+pri = low.find('a')
+print('A letra "a" aparece {0} vezes, primeira posição ficou como {2} e a última posição é {1}.'.format(q, ult, pri))
