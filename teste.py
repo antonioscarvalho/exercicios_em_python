@@ -1,3 +1,7 @@
-k = [3, 7, 6]
-k.sort(reverse=True)
-print(k)
+filme = {'título': 'Star Wars',
+        'ano': 1977,
+        'diretor':'George Lucas'
+}
+print(filme.values())
+print(filme.keys())
+print(filme.items())
