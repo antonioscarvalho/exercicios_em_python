@@ -1,2 +1,2 @@
-# Mini_projetos_em_Python
-Exercícios feitos com a proposta de curso de Python do canal Curso em Vídeo do professor Gustavo Guanabara no YouTube.
+# Exercícios e mini-projetos feitos na Linguagem Python
+Feitos com auxílio e aprimorações ensinadas no curso de Python do canal Curso em Vídeo do professor Gustavo Guanabara no YouTube.
