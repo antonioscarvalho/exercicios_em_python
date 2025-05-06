@@ -1,0 +1,35 @@
+# CODEOWNERS personalizado para Antonio Amadeu de Sousa Cravalho
+
+# Antonio é o responsável global por todo o repositório
+* @antonioscarvalho
+
+# Responsável específico por arquivos JavaScript
+*.js @antonioscarvalho
+
+# Responsável por arquivos Go
+*.go @antonioscarvalho
+
+# Responsável por arquivos de texto
+*.txt @antonioscarvalho
+
+# Responsável por logs de build
+/build/logs/ @antonioscarvalho
+
+# Responsável por arquivos diretamente dentro da pasta docs (não recursivo)
+docs/* @antonioscarvalho
+
+# Responsável por arquivos em qualquer pasta apps
+apps/ @antonioscarvalho
+
+# Responsável pela pasta /docs e suas subpastas
+/docs/ @antonioscarvalho
+
+# Responsável pela pasta /scripts e suas subpastas
+/scripts/ @antonioscarvalho
+
+# Responsável por qualquer pasta chamada logs, em qualquer profundidade
+**/logs @antonioscarvalho
+
+# Responsável pela pasta /apps exceto github
+/apps/ @antonioscarvalho
+/apps/github
